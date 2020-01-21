@@ -1,12 +1,12 @@
 **vue-aurus** provides components to build data visualization apps, it's built on top of d3
 
-##Instalation
+## Instalation
 
 ````
 npm i vue-aurus
 ````
 
-##Usage
+## Usage
 
 ```vue
 <template>
@@ -32,5 +32,5 @@ export default {
 
 ```
 
-##Implemented charts
+## Implemented charts
 * Sunburst
