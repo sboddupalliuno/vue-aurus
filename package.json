@@ -1,12 +1,26 @@
 {
-  "name": "viable",
+  "name": "vue-aurus",
   "version": "0.0.1",
-  "main": "./src/index.js",
-  "license": "MIT",
+  "private": true,
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/fojia/vue-aurus/blob/master/LICENSE.md"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fojia/vue-aurus"
+  },
+  "author": {
+    "name": "Vladimir Chairkin",
+    "url": "https://github.com/fojia"
+  },
+  "main": "dist/vue-aurus.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-bundle": "vue-cli-service build --target lib --inline-vue ./src/index.js",
+    "build-bundle": "vue-cli-service build --target lib --inline-vue src/index.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
