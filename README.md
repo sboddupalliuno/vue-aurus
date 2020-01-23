@@ -18,10 +18,12 @@ npm i vue-aurus
 <script>
 import {Sunburst} from 'vue-aurus'
 
+import chartData from '../data/data-sunburst.json';
+
 export default {
     data(){
         return {
-            data: [/*somedata*/]
+            data: chartData
         }    
     },
     components:{

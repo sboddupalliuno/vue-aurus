@@ -1,0 +1,421 @@
+{
+  "name": "nivo",
+  "color": "#cdcdcd",
+  "children": [
+    {
+      "name": "viz",
+      "color": "#cdcdcd",
+      "children": [
+        {
+          "name": "stack",
+          "color": "#cdcdcd",
+          "children": [
+            {
+              "name": "chart",
+              "color": "#cdcdcd",
+              "size": 143204
+            },
+            {
+              "name": "xAxis",
+              "color": "#85d926",
+              "size": 126884
+            },
+            {
+              "name": "yAxis",
+              "color": "#cdcdcd",
+              "size": 170786
+            },
+            {
+              "name": "layers",
+              "color": "#cdcdcd",
+              "size": 23811
+            }
+          ]
+        },
+        {
+          "name": "pie",
+          "color": "#e8c1a0",
+          "children": [
+            {
+              "name": "chart",
+              "color": "#e8c1a0",
+              "children": [
+                {
+                  "name": "pie",
+                  "color": "#e8c1a0",
+                  "children": [
+                    {
+                      "name": "outline",
+                      "color": "#e8c1a0",
+                      "size": 52358
+                    },
+                    {
+                      "name": "slices",
+                      "color": "#e8c1a0",
+                      "size": 82569
+                    },
+                    {
+                      "name": "bbox",
+                      "color": "#e8c1a0",
+                      "size": 147839
+                    }
+                  ]
+                },
+                {
+                  "name": "donut",
+                  "color": "#cdcdcd",
+                  "size": 89705
+                },
+                {
+                  "name": "gauge",
+                  "color": "#cdcdcd",
+                  "size": 106821
+                }
+              ]
+            },
+            {
+              "name": "legends",
+              "color": "#cdcdcd",
+              "size": 88524
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "colors",
+      "color": "#cdcdcd",
+      "children": [
+        {
+          "name": "rgb",
+          "color": "#cdcdcd",
+          "size": 69730
+        },
+        {
+          "name": "hsl",
+          "color": "#cdcdcd",
+          "size": 112497
+        }
+      ]
+    },
+    {
+      "name": "utils",
+      "color": "#97e3d5",
+      "children": [
+        {
+          "name": "randomize",
+          "color": "#97e3d5",
+          "size": 179341
+        },
+        {
+          "name": "resetCsizek",
+          "color": "#97e3d5",
+          "size": 77355
+        },
+        {
+          "name": "noop",
+          "color": "#97e3d5",
+          "size": 31488
+        },
+        {
+          "name": "tick",
+          "color": "#97e3d5",
+          "size": 15907
+        },
+        {
+          "name": "forceGC",
+          "color": "#97e3d5",
+          "size": 141012
+        },
+        {
+          "name": "stackTrace",
+          "color": "#97e3d5",
+          "size": 63837
+        },
+        {
+          "name": "dbg",
+          "color": "#97e3d5",
+          "size": 123038
+        }
+      ]
+    },
+    {
+      "name": "generators",
+      "color": "#cdcdcd",
+      "children": [
+        {
+          "name": "address",
+          "color": "#cdcdcd",
+          "size": 18698
+        },
+        {
+          "name": "city",
+          "color": "#cdcdcd",
+          "size": 117358
+        },
+        {
+          "name": "animal",
+          "color": "#cdcdcd",
+          "size": 181665
+        },
+        {
+          "name": "movie",
+          "color": "#cdcdcd",
+          "size": 58574
+        },
+        {
+          "name": "user",
+          "color": "#cdcdcd",
+          "size": 40229
+        }
+      ]
+    },
+    {
+      "name": "set",
+      "color": "#cdcdcd",
+      "children": [
+        {
+          "name": "clone",
+          "color": "#cdcdcd",
+          "size": 193573
+        },
+        {
+          "name": "intersect",
+          "color": "#cdcdcd",
+          "size": 94600
+        },
+        {
+          "name": "merge",
+          "color": "#cdcdcd",
+          "size": 123090
+        },
+        {
+          "name": "reverse",
+          "color": "#cdcdcd",
+          "size": 19736
+        },
+        {
+          "name": "toArray",
+          "color": "#cdcdcd",
+          "size": 8368
+        },
+        {
+          "name": "toObject",
+          "color": "#cdcdcd",
+          "size": 102194
+        },
+        {
+          "name": "fromCSV",
+          "color": "#cdcdcd",
+          "size": 123415
+        },
+        {
+          "name": "slice",
+          "color": "#cdcdcd",
+          "size": 117376
+        },
+        {
+          "name": "append",
+          "color": "#cdcdcd",
+          "size": 3312
+        },
+        {
+          "name": "prepend",
+          "color": "#cdcdcd",
+          "size": 91300
+        },
+        {
+          "name": "shuffle",
+          "color": "#cdcdcd",
+          "size": 70907
+        },
+        {
+          "name": "pick",
+          "color": "#cdcdcd",
+          "size": 123503
+        },
+        {
+          "name": "plouc",
+          "color": "#cdcdcd",
+          "size": 178887
+        }
+      ]
+    },
+    {
+      "name": "text",
+      "color": "#cdcdcd",
+      "children": [
+        {
+          "name": "trim",
+          "color": "#cdcdcd",
+          "size": 169218
+        },
+        {
+          "name": "slugify",
+          "color": "#cdcdcd",
+          "size": 157780
+        },
+        {
+          "name": "snakeCase",
+          "color": "#cdcdcd",
+          "size": 138955
+        },
+        {
+          "name": "camelCase",
+          "color": "#cdcdcd",
+          "size": 53181
+        },
+        {
+          "name": "repeat",
+          "color": "#cdcdcd",
+          "size": 111006
+        },
+        {
+          "name": "padLeft",
+          "color": "#cdcdcd",
+          "size": 106870
+        },
+        {
+          "name": "padRight",
+          "color": "#cdcdcd",
+          "size": 141711
+        },
+        {
+          "name": "sanitize",
+          "color": "#cdcdcd",
+          "size": 102887
+        },
+        {
+          "name": "ploucify",
+          "color": "#cdcdcd",
+          "size": 99149
+        }
+      ]
+    },
+    {
+      "name": "misc",
+      "color": "#cdcdcd",
+      "children": [
+        {
+          "name": "whatever",
+          "color": "#cdcdcd",
+          "children": [
+            {
+              "name": "hey",
+              "color": "#cdcdcd",
+              "size": 81122
+            },
+            {
+              "name": "WTF",
+              "color": "#cdcdcd",
+              "size": 16934
+            },
+            {
+              "name": "lol",
+              "color": "#cdcdcd",
+              "size": 89654
+            },
+            {
+              "name": "IMHO",
+              "color": "#cdcdcd",
+              "size": 180145
+            }
+          ]
+        },
+        {
+          "name": "other",
+          "color": "#cdcdcd",
+          "size": 82340
+        },
+        {
+          "name": "crap",
+          "color": "#cdcdcd",
+          "children": [
+            {
+              "name": "crapA",
+              "color": "#cdcdcd",
+              "size": 47578
+            },
+            {
+              "name": "crapB",
+              "color": "#cdcdcd",
+              "children": [
+                {
+                  "name": "crapB1",
+                  "color": "#cdcdcd",
+                  "size": 5460
+                },
+                {
+                  "name": "crapB2",
+                  "color": "#cdcdcd",
+                  "size": 158448
+                },
+                {
+                  "name": "crapB3",
+                  "color": "#cdcdcd",
+                  "size": 192824
+                },
+                {
+                  "name": "crapB4",
+                  "color": "#cdcdcd",
+                  "size": 148731
+                }
+              ]
+            },
+            {
+              "name": "crapC",
+              "color": "#cdcdcd",
+              "children": [
+                {
+                  "name": "crapC1",
+                  "color": "#cdcdcd",
+                  "size": 170305
+                },
+                {
+                  "name": "crapC2",
+                  "color": "#cdcdcd",
+                  "size": 140934
+                },
+                {
+                  "name": "crapC3",
+                  "color": "#cdcdcd",
+                  "size": 105457
+                },
+                {
+                  "name": "crapC4",
+                  "color": "#cdcdcd",
+                  "size": 185734
+                },
+                {
+                  "name": "crapC5",
+                  "color": "#cdcdcd",
+                  "size": 182390
+                },
+                {
+                  "name": "crapC6",
+                  "color": "#cdcdcd",
+                  "size": 150906
+                },
+                {
+                  "name": "crapC7",
+                  "color": "#cdcdcd",
+                  "size": 73372
+                },
+                {
+                  "name": "crapC8",
+                  "color": "#cdcdcd",
+                  "size": 85548
+                },
+                {
+                  "name": "crapC9",
+                  "color": "#cdcdcd",
+                  "size": 113558
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
