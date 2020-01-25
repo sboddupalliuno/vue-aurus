@@ -36,3 +36,34 @@ export default {
 
 ## Implemented charts
 * Sunburst
+* Swarm
+
+
+## Input data
+
+Full Datasets' examples are in the folder data/[chart name].json
+
+#### Swarm 
+````json
+{
+  "colors": {              //optional
+    "group A": "#f47560",
+    "group B": "#61cdbb",
+    "group C": "#f1e15b"
+  },
+  "data": [
+    {
+      "id": "0",
+      "group": "group A",
+      "value": 76,
+      "color": "#cdcdcd",  //optional
+      "radius": 10         //optional
+    }
+  ]
+}
+
+````
+#### Sunburst
+
+Full Dataset are in the folder data/data-sunburst.json
+

@@ -22,6 +22,19 @@
             is_vertical: {
                 type: Boolean,
                 default: false
+            },
+            colors: {
+                type: [Array, Object],
+                default: function () {
+                    return [
+                        "#e8c1a0",
+                        "#f47560",
+                        "#f1e15b",
+                        "#e8a838",
+                        "#61cdbb",
+                        "#97e3d5"
+                    ]
+                }
             }
         },
         data() {
@@ -29,14 +42,6 @@
                 id: 0,
                 svg: null,
                 radius: 5,
-                colors: [
-                    "#e8c1a0",
-                    "#f47560",
-                    "#f1e15b",
-                    "#e8a838",
-                    "#61cdbb",
-                    "#97e3d5"
-                ],
                 step: 50,
                 x: null,
                 y: null,
@@ -52,8 +57,8 @@
         created() {
             this.margin.top = this.radius * 2.5;
             this.margin.bottom = this.radius;
-            this.width= this.width - this.margin.left - this.margin.right;
-            this.height=this.height - this.margin.top - this.margin.bottom - 40;
+            this.width = this.width - this.margin.left - this.margin.right;
+            this.height = this.height - this.margin.top - this.margin.bottom - 40;
             this.id = `swarm${this._uid}`;
         },
         mounted() {
@@ -148,9 +153,9 @@
 
                 circle.enter().append("circle")
                     .attr("class", "circle-hover")
-                    .attr("r", this.radius)
-                    .style("stroke", ((d) => this.colors[this.yAxisLabels.findIndex(el => el == d.group)]).bind(this))
-                    .style("fill", ((d) => this.colors[this.yAxisLabels.findIndex(el => el == d.group)]).bind(this))
+                    .attr("r", ((d) => 'radius' in d ? d.radius : this.radius).bind(this))
+                    .style("stroke", ((d) => 'color' in d ? d.color : (Array.isArray(this.colors) ? this.colors[this.yAxisLabels.findIndex(el => el == d.group)] : this.colors[d.group])).bind(this))
+                    .style("fill", ((d) => 'color' in d ? d.color : (Array.isArray(this.colors) ? this.colors[this.yAxisLabels.findIndex(el => el == d.group)] : this.colors[d.group])).bind(this))
                     .merge(circle)
                     .attr("cx", function (d) {
                         return d ? d.x : null;

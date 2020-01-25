@@ -1,1089 +1,1086 @@
-[{
-  "id": "0",
-  "group": "group Ad",
-  "value": 76
-},{
-  "id": "0",
-  "group": "group Add",
-  "value": 76
-},{
-  "id": "0",
-  "group": "group Addd",
-  "value": 76
-},
-  {
-    "id": "0",
-    "group": "group A",
-    "value": 76
-  },
-  {
-    "id": "1",
-    "group": "group A",
-    "value": 403
-  },
-  {
-    "id": "2",
-    "group": "group A",
-    "value": 218
-  },
-  {
-    "id": "3",
-    "group": "group A",
-    "value": 462
-  },
-  {
-    "id": "4",
-    "group": "group A",
-    "value": 242
-  },
-  {
-    "id": "5",
-    "group": "group A",
-    "value": 487
-  },
-  {
-    "id": "6",
-    "group": "group A",
-    "value": 166
-  },
-  {
-    "id": "7",
-    "group": "group A",
-    "value": 470
-  },
-  {
-    "id": "8",
-    "group": "group A",
-    "value": 343
-  },
-  {
-    "id": "9",
-    "group": "group A",
-    "value": 71
-  },
-  {
-    "id": "10",
-    "group": "group A",
-    "value": 248
-  },
-  {
-    "id": "11",
-    "group": "group A",
-    "value": 213
-  },
-  {
-    "id": "12",
-    "group": "group A",
-    "value": 468
-  },
-  {
-    "id": "13",
-    "group": "group A",
-    "value": 159
-  },
-  {
-    "id": "14",
-    "group": "group A",
-    "value": 292
-  },
-  {
-    "id": "15",
-    "group": "group A",
-    "value": 187
-  },
-  {
-    "id": "16",
-    "group": "group A",
-    "value": 366
-  },
-  {
-    "id": "17",
-    "group": "group A",
-    "value": 54
-  },
-  {
-    "id": "18",
-    "group": "group A",
-    "value": 165
-  },
-  {
-    "id": "19",
-    "group": "group A",
-    "value": 434
-  },
-  {
-    "id": "20",
-    "group": "group A",
-    "value": 402
-  },
-  {
-    "id": "21",
-    "group": "group A",
-    "value": 394
-  },
-  {
-    "id": "22",
-    "group": "group A",
-    "value": 448
-  },
-  {
-    "id": "23",
-    "group": "group A",
-    "value": 137
-  },
-  {
-    "id": "24",
-    "group": "group A",
-    "value": 387
-  },
-  {
-    "id": "25",
-    "group": "group A",
-    "value": 4
-  },
-  {
-    "id": "26",
-    "group": "group A",
-    "value": 188
-  },
-  {
-    "id": "27",
-    "group": "group A",
-    "value": 343
-  },
-  {
-    "id": "28",
-    "group": "group A",
-    "value": 236
-  },
-  {
-    "id": "29",
-    "group": "group A",
-    "value": 176
-  },
-  {
-    "id": "30",
-    "group": "group A",
-    "value": 60
-  },
-  {
-    "id": "31",
-    "group": "group A",
-    "value": 133
-  },
-  {
-    "id": "32",
-    "group": "group A",
-    "value": 405
-  },
-  {
-    "id": "33",
-    "group": "group A",
-    "value": 137
-  },
-  {
-    "id": "34",
-    "group": "group A",
-    "value": 60
-  },
-  {
-    "id": "35",
-    "group": "group A",
-    "value": 440
-  },
-  {
-    "id": "36",
-    "group": "group A",
-    "value": 44
-  },
-  {
-    "id": "37",
-    "group": "group A",
-    "value": 359
-  },
-  {
-    "id": "38",
-    "group": "group A",
-    "value": 146
-  },
-  {
-    "id": "39",
-    "group": "group A",
-    "value": 252
-  },
-  {
-    "id": "40",
-    "group": "group A",
-    "value": 452
-  },
-  {
-    "id": "41",
-    "group": "group A",
-    "value": 72
-  },
-  {
-    "id": "42",
-    "group": "group A",
-    "value": 184
-  },
-  {
-    "id": "43",
-    "group": "group A",
-    "value": 99
-  },
-  {
-    "id": "44",
-    "group": "group A",
-    "value": 362
-  },
-  {
-    "id": "45",
-    "group": "group A",
-    "value": 120
-  },
-  {
-    "id": "46",
-    "group": "group A",
-    "value": 289
-  },
-  {
-    "id": "47",
-    "group": "group A",
-    "value": 439
-  },
-  {
-    "id": "48",
-    "group": "group A",
-    "value": 443
-  },
-  {
-    "id": "49",
-    "group": "group A",
-    "value": 110
-  },
-  {
-    "id": "50",
-    "group": "group A",
-    "value": 255
-  },
-  {
-    "id": "51",
-    "group": "group A",
-    "value": 266
-  },
-  {
-    "id": "52",
-    "group": "group A",
-    "value": 480
-  },
-  {
-    "id": "53",
-    "group": "group A",
-    "value": 421
-  },
-  {
-    "id": "54",
-    "group": "group A",
-    "value": 23
-  },
-  {
-    "id": "55",
-    "group": "group A",
-    "value": 359
-  },
-  {
-    "id": "56",
-    "group": "group A",
-    "value": 223
-  },
-  {
-    "id": "57",
-    "group": "group A",
-    "value": 77
-  },
-  {
-    "id": "58",
-    "group": "group A",
-    "value": 384
-  },
-  {
-    "id": "59",
-    "group": "group A",
-    "value": 105
-  },
-  {
-    "id": "60",
-    "group": "group A",
-    "value": 283
-  },
-  {
-    "id": "61",
-    "group": "group A",
-    "value": 4
-  },
-  {
-    "id": "62",
-    "group": "group A",
-    "value": 2
-  },
-  {
-    "id": "63",
-    "group": "group A",
-    "value": 26
-  },
-  {
-    "id": "64",
-    "group": "group A",
-    "value": 95
-  },
-  {
-    "id": "65",
-    "group": "group A",
-    "value": 428
-  },
-  {
-    "id": "66",
-    "group": "group A",
-    "value": 315
-  },
-  {
-    "id": "67",
-    "group": "group A",
-    "value": 340
-  },
-  {
-    "id": "68",
-    "group": "group A",
-    "value": 210
-  },
-  {
-    "id": "69",
-    "group": "group A",
-    "value": 184
-  },
-  {
-    "id": "70",
-    "group": "group A",
-    "value": 276
-  },
-  {
-    "id": "71",
-    "group": "group A",
-    "value": 484
-  },
-  {
-    "id": "72",
-    "group": "group A",
-    "value": 344
-  },
-  {
-    "id": "73",
-    "group": "group A",
-    "value": 277
-  },
-  {
-    "id": "74",
-    "group": "group A",
-    "value": 303
-  },
-  {
-    "id": "1.0",
-    "group": "group B",
-    "value": 38
-  },
-  {
-    "id": "1.1",
-    "group": "group B",
-    "value": 247
-  },
-  {
-    "id": "1.2",
-    "group": "group B",
-    "value": 48
-  },
-  {
-    "id": "1.3",
-    "group": "group B",
-    "value": 235
-  },
-  {
-    "id": "1.4",
-    "group": "group B",
-    "value": 353
-  },
-  {
-    "id": "1.5",
-    "group": "group B",
-    "value": 103
-  },
-  {
-    "id": "1.6",
-    "group": "group B",
-    "value": 290
-  },
-  {
-    "id": "1.7",
-    "group": "group B",
-    "value": 219
-  },
-  {
-    "id": "1.8",
-    "group": "group B",
-    "value": 43
-  },
-  {
-    "id": "1.9",
-    "group": "group B",
-    "value": 106
-  },
-  {
-    "id": "1.10",
-    "group": "group B",
-    "value": 236
-  },
-  {
-    "id": "1.11",
-    "group": "group B",
-    "value": 390
-  },
-  {
-    "id": "1.12",
-    "group": "group B",
-    "value": 169
-  },
-  {
-    "id": "1.13",
-    "group": "group B",
-    "value": 161
-  },
-  {
-    "id": "1.14",
-    "group": "group B",
-    "value": 443
-  },
-  {
-    "id": "1.15",
-    "group": "group B",
-    "value": 132
-  },
-  {
-    "id": "1.16",
-    "group": "group B",
-    "value": 3
-  },
-  {
-    "id": "1.17",
-    "group": "group B",
-    "value": 406
-  },
-  {
-    "id": "1.18",
-    "group": "group B",
-    "value": 372
-  },
-  {
-    "id": "1.19",
-    "group": "group B",
-    "value": 383
-  },
-  {
-    "id": "1.20",
-    "group": "group B",
-    "value": 472
-  },
-  {
-    "id": "1.21",
-    "group": "group B",
-    "value": 251
-  },
-  {
-    "id": "1.22",
-    "group": "group B",
-    "value": 181
-  },
-  {
-    "id": "1.23",
-    "group": "group B",
-    "value": 461
-  },
-  {
-    "id": "1.24",
-    "group": "group B",
-    "value": 341
-  },
-  {
-    "id": "1.25",
-    "group": "group B",
-    "value": 26
-  },
-  {
-    "id": "1.26",
-    "group": "group B",
-    "value": 367
-  },
-  {
-    "id": "1.27",
-    "group": "group B",
-    "value": 447
-  },
-  {
-    "id": "1.28",
-    "group": "group B",
-    "value": 362
-  },
-  {
-    "id": "1.29",
-    "group": "group B",
-    "value": 153
-  },
-  {
-    "id": "1.30",
-    "group": "group B",
-    "value": 377
-  },
-  {
-    "id": "1.31",
-    "group": "group B",
-    "value": 296
-  },
-  {
-    "id": "1.32",
-    "group": "group B",
-    "value": 135
-  },
-  {
-    "id": "1.33",
-    "group": "group B",
-    "value": 30
-  },
-  {
-    "id": "1.34",
-    "group": "group B",
-    "value": 373
-  },
-  {
-    "id": "1.35",
-    "group": "group B",
-    "value": 346
-  },
-  {
-    "id": "1.36",
-    "group": "group B",
-    "value": 155
-  },
-  {
-    "id": "1.37",
-    "group": "group B",
-    "value": 318
-  },
-  {
-    "id": "1.38",
-    "group": "group B",
-    "value": 426
-  },
-  {
-    "id": "1.39",
-    "group": "group B",
-    "value": 430
-  },
-  {
-    "id": "1.40",
-    "group": "group B",
-    "value": 248
-  },
-  {
-    "id": "1.41",
-    "group": "group B",
-    "value": 23
-  },
-  {
-    "id": "1.42",
-    "group": "group B",
-    "value": 120
-  },
-  {
-    "id": "1.43",
-    "group": "group B",
-    "value": 137
-  },
-  {
-    "id": "1.44",
-    "group": "group B",
-    "value": 379
-  },
-  {
-    "id": "1.45",
-    "group": "group B",
-    "value": 302
-  },
-  {
-    "id": "1.46",
-    "group": "group B",
-    "value": 269
-  },
-  {
-    "id": "1.47",
-    "group": "group B",
-    "value": 398
-  },
-  {
-    "id": "1.48",
-    "group": "group B",
-    "value": 394
-  },
-  {
-    "id": "1.49",
-    "group": "group B",
-    "value": 381
-  },
-  {
-    "id": "1.50",
-    "group": "group B",
-    "value": 248
-  },
-  {
-    "id": "1.51",
-    "group": "group B",
-    "value": 365
-  },
-  {
-    "id": "1.52",
-    "group": "group B",
-    "value": 430
-  },
-  {
-    "id": "1.53",
-    "group": "group B",
-    "value": 365
-  },
-  {
-    "id": "1.54",
-    "group": "group B",
-    "value": 277
-  },
-  {
-    "id": "1.55",
-    "group": "group B",
-    "value": 48
-  },
-  {
-    "id": "1.56",
-    "group": "group B",
-    "value": 162
-  },
-  {
-    "id": "1.57",
-    "group": "group B",
-    "value": 187
-  },
-  {
-    "id": "1.58",
-    "group": "group B",
-    "value": 59
-  },
-  {
-    "id": "1.59",
-    "group": "group B",
-    "value": 344
-  },
-  {
-    "id": "1.60",
-    "group": "group B",
-    "value": 85
-  },
-  {
-    "id": "1.61",
-    "group": "group B",
-    "value": 328
-  },
-  {
-    "id": "2.0",
-    "group": "group C",
-    "value": 216
-  },
-  {
-    "id": "2.1",
-    "group": "group C",
-    "value": 272
-  },
-  {
-    "id": "2.2",
-    "group": "group C",
-    "value": 240
-  },
-  {
-    "id": "2.3",
-    "group": "group C",
-    "value": 393
-  },
-  {
-    "id": "2.4",
-    "group": "group C",
-    "value": 397
-  },
-  {
-    "id": "2.5",
-    "group": "group C",
-    "value": 111
-  },
-  {
-    "id": "2.6",
-    "group": "group C",
-    "value": 85
-  },
-  {
-    "id": "2.7",
-    "group": "group C",
-    "value": 237
-  },
-  {
-    "id": "2.8",
-    "group": "group C",
-    "value": 131
-  },
-  {
-    "id": "2.9",
-    "group": "group C",
-    "value": 469
-  },
-  {
-    "id": "2.10",
-    "group": "group C",
-    "value": 111
-  },
-  {
-    "id": "2.11",
-    "group": "group C",
-    "value": 92
-  },
-  {
-    "id": "2.12",
-    "group": "group C",
-    "value": 418
-  },
-  {
-    "id": "2.13",
-    "group": "group C",
-    "value": 40
-  },
-  {
-    "id": "2.14",
-    "group": "group C",
-    "value": 12
-  },
-  {
-    "id": "2.15",
-    "group": "group C",
-    "value": 106
-  },
-  {
-    "id": "2.16",
-    "group": "group C",
-    "value": 469
-  },
-  {
-    "id": "2.17",
-    "group": "group C",
-    "value": 98
-  },
-  {
-    "id": "2.18",
-    "group": "group C",
-    "value": 204
-  },
-  {
-    "id": "2.19",
-    "group": "group C",
-    "value": 205
-  },
-  {
-    "id": "2.20",
-    "group": "group C",
-    "value": 150
-  },
-  {
-    "id": "2.21",
-    "group": "group C",
-    "value": 196
-  },
-  {
-    "id": "2.22",
-    "group": "group C",
-    "value": 431
-  },
-  {
-    "id": "2.23",
-    "group": "group C",
-    "value": 332
-  },
-  {
-    "id": "2.24",
-    "group": "group C",
-    "value": 77
-  },
-  {
-    "id": "2.25",
-    "group": "group C",
-    "value": 202
-  },
-  {
-    "id": "2.26",
-    "group": "group C",
-    "value": 181
-  },
-  {
-    "id": "2.27",
-    "group": "group C",
-    "value": 176
-  },
-  {
-    "id": "2.28",
-    "group": "group C",
-    "value": 353
-  },
-  {
-    "id": "2.29",
-    "group": "group C",
-    "value": 183
-  },
-  {
-    "id": "2.30",
-    "group": "group C",
-    "value": 330
-  },
-  {
-    "id": "2.31",
-    "group": "group C",
-    "value": 313
-  },
-  {
-    "id": "2.32",
-    "group": "group C",
-    "value": 455
-  },
-  {
-    "id": "2.33",
-    "group": "group C",
-    "value": 233
-  },
-  {
-    "id": "2.34",
-    "group": "group C",
-    "value": 229
-  },
-  {
-    "id": "2.35",
-    "group": "group C",
-    "value": 224
-  },
-  {
-    "id": "2.36",
-    "group": "group C",
-    "value": 23
-  },
-  {
-    "id": "2.37",
-    "group": "group C",
-    "value": 50
-  },
-  {
-    "id": "2.38",
-    "group": "group C",
-    "value": 373
-  },
-  {
-    "id": "2.39",
-    "group": "group C",
-    "value": 29
-  },
-  {
-    "id": "2.40",
-    "group": "group C",
-    "value": 43
-  },
-  {
-    "id": "2.41",
-    "group": "group C",
-    "value": 441
-  },
-  {
-    "id": "2.42",
-    "group": "group C",
-    "value": 9
-  },
-  {
-    "id": "2.43",
-    "group": "group C",
-    "value": 219
-  },
-  {
-    "id": "2.44",
-    "group": "group C",
-    "value": 364
-  },
-  {
-    "id": "2.45",
-    "group": "group C",
-    "value": 482
-  },
-  {
-    "id": "2.46",
-    "group": "group C",
-    "value": 415
-  },
-  {
-    "id": "2.47",
-    "group": "group C",
-    "value": 375
-  },
-  {
-    "id": "2.48",
-    "group": "group C",
-    "value": 39
-  },
-  {
-    "id": "2.49",
-    "group": "group C",
-    "value": 20
-  },
-  {
-    "id": "2.50",
-    "group": "group C",
-    "value": 308
-  },
-  {
-    "id": "2.51",
-    "group": "group C",
-    "value": 420
-  },
-  {
-    "id": "2.52",
-    "group": "group C",
-    "value": 227
-  },
-  {
-    "id": "2.53",
-    "group": "group C",
-    "value": 153
-  },
-  {
-    "id": "2.54",
-    "group": "group C",
-    "value": 315
-  },
-  {
-    "id": "2.55",
-    "group": "group C",
-    "value": 85
-  },
-  {
-    "id": "2.56",
-    "group": "group C",
-    "value": 36
-  },
-  {
-    "id": "2.57",
-    "group": "group C",
-    "value": 166
-  },
-  {
-    "id": "2.58",
-    "group": "group C",
-    "value": 33
-  },
-  {
-    "id": "2.59",
-    "group": "group C",
-    "value": 473
-  },
-  {
-    "id": "2.60",
-    "group": "group C",
-    "value": 264
-  },
-  {
-    "id": "2.61",
-    "group": "group C",
-    "value": 297
-  },
-  {
-    "id": "2.62",
-    "group": "group C",
-    "value": 315
-  },
-  {
-    "id": "2.63",
-    "group": "group C",
-    "value": 22
-  },
-  {
-    "id": "2.64",
-    "group": "group C",
-    "value": 354
-  },
-  {
-    "id": "2.65",
-    "group": "group C",
-    "value": 347
-  },
-  {
-    "id": "2.66",
-    "group": "group C",
-    "value": 204
-  },
-  {
-    "id": "2.67",
-    "group": "group C",
-    "value": 234
-  },
-  {
-    "id": "2.68",
-    "group": "group C",
-    "value": 293
-  },
-  {
-    "id": "2.69",
-    "group": "group C",
-    "value": 123
-  },
-  {
-    "id": "2.70",
-    "group": "group C",
-    "value": 38
-  },
-  {
-    "id": "2.71",
-    "group": "group C",
-    "value": 94
-  },
-  {
-    "id": "2.72",
-    "group": "group C",
-    "value": 485
-  },
-  {
-    "id": "2.73",
-    "group": "group C",
-    "value": 93
-  },
-  {
-    "id": "2.74",
-    "group": "group C",
-    "value": 463
-  },
-  {
-    "id": "2.75",
-    "group": "group C",
-    "value": 361
-  },
-  {
-    "id": "2.76",
-    "group": "group C",
-    "value": 100
-  },
-  {
-    "id": "2.77",
-    "group": "group C",
-    "value": 176
-  }
-]
+{
+  "colors": {
+    "group A": "#f47560",
+    "group B": "#61cdbb",
+    "group C": "#f1e15b"
+  },
+  "data": [
+    {
+      "id": "0",
+      "group": "group A",
+      "value": 76,
+      "color": "#cdcdcd",
+      "radius": 10
+    },
+    {
+      "id": "1",
+      "group": "group A",
+      "value": 403
+    },
+    {
+      "id": "2",
+      "group": "group A",
+      "value": 218
+    },
+    {
+      "id": "3",
+      "group": "group A",
+      "value": 462
+    },
+    {
+      "id": "4",
+      "group": "group A",
+      "value": 242
+    },
+    {
+      "id": "5",
+      "group": "group A",
+      "value": 487
+    },
+    {
+      "id": "6",
+      "group": "group A",
+      "value": 166
+    },
+    {
+      "id": "7",
+      "group": "group A",
+      "value": 470
+    },
+    {
+      "id": "8",
+      "group": "group A",
+      "value": 343
+    },
+    {
+      "id": "9",
+      "group": "group A",
+      "value": 71
+    },
+    {
+      "id": "10",
+      "group": "group A",
+      "value": 248
+    },
+    {
+      "id": "11",
+      "group": "group A",
+      "value": 213
+    },
+    {
+      "id": "12",
+      "group": "group A",
+      "value": 468
+    },
+    {
+      "id": "13",
+      "group": "group A",
+      "value": 159
+    },
+    {
+      "id": "14",
+      "group": "group A",
+      "value": 292
+    },
+    {
+      "id": "15",
+      "group": "group A",
+      "value": 187
+    },
+    {
+      "id": "16",
+      "group": "group A",
+      "value": 366
+    },
+    {
+      "id": "17",
+      "group": "group A",
+      "value": 54
+    },
+    {
+      "id": "18",
+      "group": "group A",
+      "value": 165
+    },
+    {
+      "id": "19",
+      "group": "group A",
+      "value": 434
+    },
+    {
+      "id": "20",
+      "group": "group A",
+      "value": 402
+    },
+    {
+      "id": "21",
+      "group": "group A",
+      "value": 394
+    },
+    {
+      "id": "22",
+      "group": "group A",
+      "value": 448
+    },
+    {
+      "id": "23",
+      "group": "group A",
+      "value": 137
+    },
+    {
+      "id": "24",
+      "group": "group A",
+      "value": 387
+    },
+    {
+      "id": "25",
+      "group": "group A",
+      "value": 4
+    },
+    {
+      "id": "26",
+      "group": "group A",
+      "value": 188
+    },
+    {
+      "id": "27",
+      "group": "group A",
+      "value": 343
+    },
+    {
+      "id": "28",
+      "group": "group A",
+      "value": 236
+    },
+    {
+      "id": "29",
+      "group": "group A",
+      "value": 176
+    },
+    {
+      "id": "30",
+      "group": "group A",
+      "value": 60
+    },
+    {
+      "id": "31",
+      "group": "group A",
+      "value": 133
+    },
+    {
+      "id": "32",
+      "group": "group A",
+      "value": 405
+    },
+    {
+      "id": "33",
+      "group": "group A",
+      "value": 137
+    },
+    {
+      "id": "34",
+      "group": "group A",
+      "value": 60
+    },
+    {
+      "id": "35",
+      "group": "group A",
+      "value": 440
+    },
+    {
+      "id": "36",
+      "group": "group A",
+      "value": 44
+    },
+    {
+      "id": "37",
+      "group": "group A",
+      "value": 359
+    },
+    {
+      "id": "38",
+      "group": "group A",
+      "value": 146
+    },
+    {
+      "id": "39",
+      "group": "group A",
+      "value": 252
+    },
+    {
+      "id": "40",
+      "group": "group A",
+      "value": 452
+    },
+    {
+      "id": "41",
+      "group": "group A",
+      "value": 72
+    },
+    {
+      "id": "42",
+      "group": "group A",
+      "value": 184
+    },
+    {
+      "id": "43",
+      "group": "group A",
+      "value": 99
+    },
+    {
+      "id": "44",
+      "group": "group A",
+      "value": 362
+    },
+    {
+      "id": "45",
+      "group": "group A",
+      "value": 120
+    },
+    {
+      "id": "46",
+      "group": "group A",
+      "value": 289
+    },
+    {
+      "id": "47",
+      "group": "group A",
+      "value": 439
+    },
+    {
+      "id": "48",
+      "group": "group A",
+      "value": 443
+    },
+    {
+      "id": "49",
+      "group": "group A",
+      "value": 110
+    },
+    {
+      "id": "50",
+      "group": "group A",
+      "value": 255
+    },
+    {
+      "id": "51",
+      "group": "group A",
+      "value": 266
+    },
+    {
+      "id": "52",
+      "group": "group A",
+      "value": 480
+    },
+    {
+      "id": "53",
+      "group": "group A",
+      "value": 421
+    },
+    {
+      "id": "54",
+      "group": "group A",
+      "value": 23
+    },
+    {
+      "id": "55",
+      "group": "group A",
+      "value": 359
+    },
+    {
+      "id": "56",
+      "group": "group A",
+      "value": 223
+    },
+    {
+      "id": "57",
+      "group": "group A",
+      "value": 77
+    },
+    {
+      "id": "58",
+      "group": "group A",
+      "value": 384
+    },
+    {
+      "id": "59",
+      "group": "group A",
+      "value": 105
+    },
+    {
+      "id": "60",
+      "group": "group A",
+      "value": 283
+    },
+    {
+      "id": "61",
+      "group": "group A",
+      "value": 4
+    },
+    {
+      "id": "62",
+      "group": "group A",
+      "value": 2
+    },
+    {
+      "id": "63",
+      "group": "group A",
+      "value": 26
+    },
+    {
+      "id": "64",
+      "group": "group A",
+      "value": 95
+    },
+    {
+      "id": "65",
+      "group": "group A",
+      "value": 428
+    },
+    {
+      "id": "66",
+      "group": "group A",
+      "value": 315
+    },
+    {
+      "id": "67",
+      "group": "group A",
+      "value": 340
+    },
+    {
+      "id": "68",
+      "group": "group A",
+      "value": 210
+    },
+    {
+      "id": "69",
+      "group": "group A",
+      "value": 184
+    },
+    {
+      "id": "70",
+      "group": "group A",
+      "value": 276
+    },
+    {
+      "id": "71",
+      "group": "group A",
+      "value": 484
+    },
+    {
+      "id": "72",
+      "group": "group A",
+      "value": 344
+    },
+    {
+      "id": "73",
+      "group": "group A",
+      "value": 277
+    },
+    {
+      "id": "74",
+      "group": "group A",
+      "value": 303
+    },
+    {
+      "id": "1.0",
+      "group": "group B",
+      "value": 38
+    },
+    {
+      "id": "1.1",
+      "group": "group B",
+      "value": 247
+    },
+    {
+      "id": "1.2",
+      "group": "group B",
+      "value": 48
+    },
+    {
+      "id": "1.3",
+      "group": "group B",
+      "value": 235
+    },
+    {
+      "id": "1.4",
+      "group": "group B",
+      "value": 353
+    },
+    {
+      "id": "1.5",
+      "group": "group B",
+      "value": 103
+    },
+    {
+      "id": "1.6",
+      "group": "group B",
+      "value": 290
+    },
+    {
+      "id": "1.7",
+      "group": "group B",
+      "value": 219
+    },
+    {
+      "id": "1.8",
+      "group": "group B",
+      "value": 43
+    },
+    {
+      "id": "1.9",
+      "group": "group B",
+      "value": 106
+    },
+    {
+      "id": "1.10",
+      "group": "group B",
+      "value": 236
+    },
+    {
+      "id": "1.11",
+      "group": "group B",
+      "value": 390
+    },
+    {
+      "id": "1.12",
+      "group": "group B",
+      "value": 169
+    },
+    {
+      "id": "1.13",
+      "group": "group B",
+      "value": 161
+    },
+    {
+      "id": "1.14",
+      "group": "group B",
+      "value": 443
+    },
+    {
+      "id": "1.15",
+      "group": "group B",
+      "value": 132
+    },
+    {
+      "id": "1.16",
+      "group": "group B",
+      "value": 3
+    },
+    {
+      "id": "1.17",
+      "group": "group B",
+      "value": 406
+    },
+    {
+      "id": "1.18",
+      "group": "group B",
+      "value": 372
+    },
+    {
+      "id": "1.19",
+      "group": "group B",
+      "value": 383
+    },
+    {
+      "id": "1.20",
+      "group": "group B",
+      "value": 472
+    },
+    {
+      "id": "1.21",
+      "group": "group B",
+      "value": 251
+    },
+    {
+      "id": "1.22",
+      "group": "group B",
+      "value": 181
+    },
+    {
+      "id": "1.23",
+      "group": "group B",
+      "value": 461
+    },
+    {
+      "id": "1.24",
+      "group": "group B",
+      "value": 341
+    },
+    {
+      "id": "1.25",
+      "group": "group B",
+      "value": 26
+    },
+    {
+      "id": "1.26",
+      "group": "group B",
+      "value": 367
+    },
+    {
+      "id": "1.27",
+      "group": "group B",
+      "value": 447
+    },
+    {
+      "id": "1.28",
+      "group": "group B",
+      "value": 362
+    },
+    {
+      "id": "1.29",
+      "group": "group B",
+      "value": 153
+    },
+    {
+      "id": "1.30",
+      "group": "group B",
+      "value": 377
+    },
+    {
+      "id": "1.31",
+      "group": "group B",
+      "value": 296
+    },
+    {
+      "id": "1.32",
+      "group": "group B",
+      "value": 135
+    },
+    {
+      "id": "1.33",
+      "group": "group B",
+      "value": 30
+    },
+    {
+      "id": "1.34",
+      "group": "group B",
+      "value": 373
+    },
+    {
+      "id": "1.35",
+      "group": "group B",
+      "value": 346
+    },
+    {
+      "id": "1.36",
+      "group": "group B",
+      "value": 155
+    },
+    {
+      "id": "1.37",
+      "group": "group B",
+      "value": 318
+    },
+    {
+      "id": "1.38",
+      "group": "group B",
+      "value": 426
+    },
+    {
+      "id": "1.39",
+      "group": "group B",
+      "value": 430
+    },
+    {
+      "id": "1.40",
+      "group": "group B",
+      "value": 248
+    },
+    {
+      "id": "1.41",
+      "group": "group B",
+      "value": 23
+    },
+    {
+      "id": "1.42",
+      "group": "group B",
+      "value": 120
+    },
+    {
+      "id": "1.43",
+      "group": "group B",
+      "value": 137
+    },
+    {
+      "id": "1.44",
+      "group": "group B",
+      "value": 379
+    },
+    {
+      "id": "1.45",
+      "group": "group B",
+      "value": 302
+    },
+    {
+      "id": "1.46",
+      "group": "group B",
+      "value": 269
+    },
+    {
+      "id": "1.47",
+      "group": "group B",
+      "value": 398
+    },
+    {
+      "id": "1.48",
+      "group": "group B",
+      "value": 394
+    },
+    {
+      "id": "1.49",
+      "group": "group B",
+      "value": 381
+    },
+    {
+      "id": "1.50",
+      "group": "group B",
+      "value": 248
+    },
+    {
+      "id": "1.51",
+      "group": "group B",
+      "value": 365
+    },
+    {
+      "id": "1.52",
+      "group": "group B",
+      "value": 430
+    },
+    {
+      "id": "1.53",
+      "group": "group B",
+      "value": 365
+    },
+    {
+      "id": "1.54",
+      "group": "group B",
+      "value": 277
+    },
+    {
+      "id": "1.55",
+      "group": "group B",
+      "value": 48
+    },
+    {
+      "id": "1.56",
+      "group": "group B",
+      "value": 162
+    },
+    {
+      "id": "1.57",
+      "group": "group B",
+      "value": 187
+    },
+    {
+      "id": "1.58",
+      "group": "group B",
+      "value": 59
+    },
+    {
+      "id": "1.59",
+      "group": "group B",
+      "value": 344
+    },
+    {
+      "id": "1.60",
+      "group": "group B",
+      "value": 85
+    },
+    {
+      "id": "1.61",
+      "group": "group B",
+      "value": 328
+    },
+    {
+      "id": "2.0",
+      "group": "group C",
+      "value": 216
+    },
+    {
+      "id": "2.1",
+      "group": "group C",
+      "value": 272
+    },
+    {
+      "id": "2.2",
+      "group": "group C",
+      "value": 240
+    },
+    {
+      "id": "2.3",
+      "group": "group C",
+      "value": 393
+    },
+    {
+      "id": "2.4",
+      "group": "group C",
+      "value": 397
+    },
+    {
+      "id": "2.5",
+      "group": "group C",
+      "value": 111
+    },
+    {
+      "id": "2.6",
+      "group": "group C",
+      "value": 85
+    },
+    {
+      "id": "2.7",
+      "group": "group C",
+      "value": 237
+    },
+    {
+      "id": "2.8",
+      "group": "group C",
+      "value": 131
+    },
+    {
+      "id": "2.9",
+      "group": "group C",
+      "value": 469
+    },
+    {
+      "id": "2.10",
+      "group": "group C",
+      "value": 111
+    },
+    {
+      "id": "2.11",
+      "group": "group C",
+      "value": 92
+    },
+    {
+      "id": "2.12",
+      "group": "group C",
+      "value": 418
+    },
+    {
+      "id": "2.13",
+      "group": "group C",
+      "value": 40
+    },
+    {
+      "id": "2.14",
+      "group": "group C",
+      "value": 12
+    },
+    {
+      "id": "2.15",
+      "group": "group C",
+      "value": 106
+    },
+    {
+      "id": "2.16",
+      "group": "group C",
+      "value": 469
+    },
+    {
+      "id": "2.17",
+      "group": "group C",
+      "value": 98
+    },
+    {
+      "id": "2.18",
+      "group": "group C",
+      "value": 204
+    },
+    {
+      "id": "2.19",
+      "group": "group C",
+      "value": 205
+    },
+    {
+      "id": "2.20",
+      "group": "group C",
+      "value": 150
+    },
+    {
+      "id": "2.21",
+      "group": "group C",
+      "value": 196
+    },
+    {
+      "id": "2.22",
+      "group": "group C",
+      "value": 431
+    },
+    {
+      "id": "2.23",
+      "group": "group C",
+      "value": 332
+    },
+    {
+      "id": "2.24",
+      "group": "group C",
+      "value": 77
+    },
+    {
+      "id": "2.25",
+      "group": "group C",
+      "value": 202
+    },
+    {
+      "id": "2.26",
+      "group": "group C",
+      "value": 181
+    },
+    {
+      "id": "2.27",
+      "group": "group C",
+      "value": 176
+    },
+    {
+      "id": "2.28",
+      "group": "group C",
+      "value": 353
+    },
+    {
+      "id": "2.29",
+      "group": "group C",
+      "value": 183
+    },
+    {
+      "id": "2.30",
+      "group": "group C",
+      "value": 330
+    },
+    {
+      "id": "2.31",
+      "group": "group C",
+      "value": 313
+    },
+    {
+      "id": "2.32",
+      "group": "group C",
+      "value": 455
+    },
+    {
+      "id": "2.33",
+      "group": "group C",
+      "value": 233
+    },
+    {
+      "id": "2.34",
+      "group": "group C",
+      "value": 229
+    },
+    {
+      "id": "2.35",
+      "group": "group C",
+      "value": 224
+    },
+    {
+      "id": "2.36",
+      "group": "group C",
+      "value": 23
+    },
+    {
+      "id": "2.37",
+      "group": "group C",
+      "value": 50
+    },
+    {
+      "id": "2.38",
+      "group": "group C",
+      "value": 373
+    },
+    {
+      "id": "2.39",
+      "group": "group C",
+      "value": 29
+    },
+    {
+      "id": "2.40",
+      "group": "group C",
+      "value": 43
+    },
+    {
+      "id": "2.41",
+      "group": "group C",
+      "value": 441
+    },
+    {
+      "id": "2.42",
+      "group": "group C",
+      "value": 9
+    },
+    {
+      "id": "2.43",
+      "group": "group C",
+      "value": 219
+    },
+    {
+      "id": "2.44",
+      "group": "group C",
+      "value": 364
+    },
+    {
+      "id": "2.45",
+      "group": "group C",
+      "value": 482
+    },
+    {
+      "id": "2.46",
+      "group": "group C",
+      "value": 415
+    },
+    {
+      "id": "2.47",
+      "group": "group C",
+      "value": 375
+    },
+    {
+      "id": "2.48",
+      "group": "group C",
+      "value": 39
+    },
+    {
+      "id": "2.49",
+      "group": "group C",
+      "value": 20
+    },
+    {
+      "id": "2.50",
+      "group": "group C",
+      "value": 308
+    },
+    {
+      "id": "2.51",
+      "group": "group C",
+      "value": 420
+    },
+    {
+      "id": "2.52",
+      "group": "group C",
+      "value": 227
+    },
+    {
+      "id": "2.53",
+      "group": "group C",
+      "value": 153
+    },
+    {
+      "id": "2.54",
+      "group": "group C",
+      "value": 315
+    },
+    {
+      "id": "2.55",
+      "group": "group C",
+      "value": 85
+    },
+    {
+      "id": "2.56",
+      "group": "group C",
+      "value": 36
+    },
+    {
+      "id": "2.57",
+      "group": "group C",
+      "value": 166
+    },
+    {
+      "id": "2.58",
+      "group": "group C",
+      "value": 33
+    },
+    {
+      "id": "2.59",
+      "group": "group C",
+      "value": 473
+    },
+    {
+      "id": "2.60",
+      "group": "group C",
+      "value": 264
+    },
+    {
+      "id": "2.61",
+      "group": "group C",
+      "value": 297
+    },
+    {
+      "id": "2.62",
+      "group": "group C",
+      "value": 315
+    },
+    {
+      "id": "2.63",
+      "group": "group C",
+      "value": 22
+    },
+    {
+      "id": "2.64",
+      "group": "group C",
+      "value": 354
+    },
+    {
+      "id": "2.65",
+      "group": "group C",
+      "value": 347
+    },
+    {
+      "id": "2.66",
+      "group": "group C",
+      "value": 204
+    },
+    {
+      "id": "2.67",
+      "group": "group C",
+      "value": 234
+    },
+    {
+      "id": "2.68",
+      "group": "group C",
+      "value": 293
+    },
+    {
+      "id": "2.69",
+      "group": "group C",
+      "value": 123
+    },
+    {
+      "id": "2.70",
+      "group": "group C",
+      "value": 38
+    },
+    {
+      "id": "2.71",
+      "group": "group C",
+      "value": 94
+    },
+    {
+      "id": "2.72",
+      "group": "group C",
+      "value": 485
+    },
+    {
+      "id": "2.73",
+      "group": "group C",
+      "value": 93
+    },
+    {
+      "id": "2.74",
+      "group": "group C",
+      "value": 463
+    },
+    {
+      "id": "2.75",
+      "group": "group C",
+      "value": 361
+    },
+    {
+      "id": "2.76",
+      "group": "group C",
+      "value": 100
+    },
+    {
+      "id": "2.77",
+      "group": "group C",
+      "value": 176
+    }
+  ]
+}

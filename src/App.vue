@@ -1,7 +1,8 @@
 <template>
     <div id="app">
         <Swarm
-                :data="dataswarm"
+                :data="dataswarm.data"
+                :colors="dataswarm.colors"
                 :width="600"
                 :height="500"
                 :is_vertical="true"
@@ -28,7 +29,7 @@
             }
         },
         mounted(){
-            window.console.log(this.data);
+
         },
         components: {
             Swarm,
