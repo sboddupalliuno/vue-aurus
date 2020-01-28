@@ -1,7 +1,6 @@
 {
   "name": "vue-aurus",
   "version": "0.0.2",
-
   "licenses": [
     {
       "type": "MIT",
@@ -16,6 +15,16 @@
     "name": "Vladimir Chairkin",
     "url": "https://github.com/fojia"
   },
+  "keywords": [
+        "vue-aurus",
+        "dataviz",
+        "vue",
+        "d3",
+        "charts",
+        "swarmplot",
+        "sunburst"
+        "bar"
+    ],
   "main": "dist/vue-aurus.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
