@@ -36,7 +36,7 @@
                 xScale: null,
                 yScale: null,
                 chartWidth: 0,
-                chartHeight:0
+                chartHeight: 0
             }
         },
         created() {
@@ -113,7 +113,9 @@
                         .attr("width", this.xScale.bandwidth())
                         .attr("height", (function (d) {
                             return this.chartHeight - this.yScale(d.value);
-                        }).bind(this));
+                        }).bind(this))
+                        .style("fill", (d) => d.color ? d.color : '#9d9d9f');
+
 
                     if (this.target) {
                         this.svg.append('line')
@@ -144,7 +146,8 @@
                         .attr("height", this.yScale.bandwidth())
                         .attr("width", (function (d) {
                             return this.xScale(d.value);
-                        }).bind(this));
+                        }).bind(this))
+                        .style("fill", (d) => d.color ? d.color : '#9d9d9f');
 
                     if (this.target) {
                         this.svg.append('line')
@@ -164,7 +167,6 @@
                             .text(this.target)
                     }
                 }
-
             },
         },
         computed: {
@@ -184,12 +186,8 @@
         margin: 0 auto;
     }
 
-    div.bar-container >>> .bar {
-        fill: #9d9d9f;
-    }
-
     div.bar-container >>> .bar:hover {
-        fill: #808082;
+        fill-opacity: 0.7;
     }
 
     div.bar-container >>> .target-label {
