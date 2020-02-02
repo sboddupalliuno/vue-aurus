@@ -1,39 +1,50 @@
 <template>
     <div id="app">
         <Swarm
-                :data="dataswarm.data"
-                :colors="dataswarm.colors"
+                :data="dataSwarm.data"
+                :colors="dataSwarm.colors"
                 :width="600"
                 :height="500"
                 :is_vertical="true"
         />
         <Sunburst
-                :data="datasunburst"
+                :data="dataSunburst"
                 :width="500"
                 :height="500"
+        />
+        <Bar
+                :data="dataBar"
+                :width="500"
+                :height="300"
+                :target="25"
+                :is_vertical="true"
         />
     </div>
 </template>
 
 <script>
 
-    import {Swarm, Sunburst} from './index.js';
-    import dataswarm from '../data/data-swarm.json'
-    import datasunburst from '../data/data-sunburst.json'
+    import {Swarm, Sunburst, Bar} from './index.js';
+    import dataSwarm from '../data/data-swarm.json'
+    import dataSunburst from '../data/data-sunburst.json'
+    import dataBar from '../data/data-bar.json'
+
     export default {
         name: 'app',
         data() {
             return {
-                dataswarm: dataswarm,
-                datasunburst: datasunburst,
+                dataSwarm: dataSwarm,
+                dataSunburst: dataSunburst,
+                dataBar: dataBar,
             }
         },
-        mounted(){
+        mounted() {
 
         },
         components: {
             Swarm,
-            Sunburst
+            Sunburst,
+            Bar
         }
 
     }

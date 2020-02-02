@@ -51,14 +51,16 @@
                 yAxisLeft: null,
                 yAxisRight: null,
                 tip: null,
-                margin: {top: 0, left: 90, bottom: 0, right: 30}
+                margin: {top: 0, left: 90, bottom: 0, right: 30},
+                chartWidth: 0,
+                chartHeight: 0
             }
         },
         created() {
             this.margin.top = this.radius * 2.5;
             this.margin.bottom = this.radius;
-            this.width = this.width - this.margin.left - this.margin.right;
-            this.height = this.height - this.margin.top - this.margin.bottom - 40;
+            this.chartWidth = this.width - this.margin.left - this.margin.right;
+            this.chartHeight = this.height - this.margin.top - this.margin.bottom - 40;
             this.id = `swarm${this._uid}`;
         },
         mounted() {
@@ -69,8 +71,8 @@
 
                 this.svg = d3.select(`#${this.id}`)
                     .append("svg")
-                    .attr("width", this.width + this.margin.left + this.margin.right)
-                    .attr("height", this.height + this.margin.top + this.margin.bottom + 40)
+                    .attr("width", this.chartWidth + this.margin.left + this.margin.right)
+                    .attr("height", this.chartHeight + this.margin.top + this.margin.bottom + 40)
                     .append("g")
                     .attr("transform", "translate(" + this.margin.left + ", " + this.margin.top + ")");
 
@@ -82,13 +84,13 @@
                 }
                 if (this.is_vertical) {
                     this.x = d3.scaleBand()
-                        .rangeRound([0, this.width])
+                        .rangeRound([0, this.chartWidth])
                         .domain(this.yAxisLabels);
 
                     this.xAxis = d3.axisBottom(this.x);
 
                     this.y = d3.scaleLinear()
-                        .range([this.height, 0])
+                        .range([this.chartHeight, 0])
                         .domain([0, xLabelMaxValue]);
                     this.yAxisLeft = d3.axisLeft(this.y)
                         .tickSize(0)
@@ -98,11 +100,11 @@
                         .tickSizeInner(-this.width);
                 } else {
                     this.x = d3.scaleLinear()
-                        .range([0, this.width])
+                        .range([0, this.chartWidth])
                         .domain([0, xLabelMaxValue]);
                     this.xAxis = d3.axisBottom(this.x);
                     this.y = d3.scaleBand()
-                        .rangeRound([0, this.height])
+                        .rangeRound([0, this.chartHeight])
                         .domain(this.yAxisLabels);
 
                     this.yAxisLeft = d3.axisLeft(this.y)
@@ -110,7 +112,7 @@
 
                     this.yAxisRight = d3.axisRight(this.y)
                         .tickSizeOuter(0)
-                        .tickSizeInner(-this.width);
+                        .tickSizeInner(-this.chartWidth);
                 }
 
                 this.tip = d3.select(`#${this.id}`).append("div")
@@ -127,17 +129,17 @@
 
                 this.svg.append("g")
                     .attr("class", "axis y right")
-                    .attr("transform", "translate(" + this.width + ", 0)")
+                    .attr("transform", "translate(" + this.chartWidth + ", 0)")
                     .call(this.yAxisRight.tickFormat(() => ''))
                     .selectAll(".tick text")
                     .attr("dx", this.radius);
 
                 this.svg.append("g")
                     .attr("class", "axis x")
-                    .attr("transform", "translate(0, " + this.height + ")")
+                    .attr("transform", "translate(0, " + this.chartHeight + ")")
                     .call(this.xAxis)
                     .selectAll(".tick line")
-                    .attr('y2', -this.height);
+                    .attr('y2', -this.chartHeight);
 
                 if (this.is_vertical) {
                     this.forceSimVertical();

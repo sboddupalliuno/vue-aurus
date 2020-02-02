@@ -1,6 +1,7 @@
 {
   "name": "vue-aurus",
   "version": "0.0.2",
+  "private": true,
   "licenses": [
     {
       "type": "MIT",
@@ -22,7 +23,7 @@
         "d3",
         "charts",
         "swarmplot",
-        "sunburst"
+        "sunburst",
         "bar"
     ],
   "main": "dist/vue-aurus.umd.min.js",
